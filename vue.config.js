@@ -1,5 +1,5 @@
 module.exports = {
-  outputDir: 'docs',
+  outputDir: 'eba_task1',
   assetsDir: './',
   publicPath: './',
 }
